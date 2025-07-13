@@ -7,16 +7,19 @@ A collection of notes, assignments, exercises, and other resources related to th
 |--|--|
 | Programming and Laboratory | 1 |
 | Probability and Statistics | 1 |
-| Software Architecture | 1 |
+| Computer Architecture | 1 |
 
 
 ## Table of Contents
 
-### Software Architecture
+### Computer Architecture
 
 #### MARS MIPS Exercises
 
 MIPS exercises for the emulator [MARS](https://github.com/dpetersanderson/MARS). 
 
-[print_fibonacci](1b-software-architecture/mars-mips-exercises/print_fibonacci.asm) Print the first n-th numbers of the Fibonacci sequence.
-
+| | |
+|--|--|
+| [print_fibonacci](1b-computer-architecture/mars-mips-exercises/print_fibonacci.asm) | Print the first n-th numbers of the Fibonacci sequence. |
+|[bubble_sort](1b-computer-architecture/mars-mips-exercises/bubble_sort.asm) | Bubble sort algorithm on an fixed array. |
+| | |
