@@ -22,4 +22,5 @@ MIPS exercises for the emulator [MARS](https://github.com/dpetersanderson/MARS).
 |--|--|
 | [print_fibonacci](1b-computer-architecture/mars-mips-exercises/print_fibonacci.asm) | Print the first n-th numbers of the Fibonacci sequence. |
 |[bubble_sort](1b-computer-architecture/mars-mips-exercises/bubble_sort.asm) | Bubble sort algorithm on an fixed array. |
+|[max](1b-computer-architecture/mars-mips-exercises/max/)| Max between three integers. |
 | | |
